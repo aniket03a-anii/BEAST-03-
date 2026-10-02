@@ -1,0 +1,6 @@
+{
+  "name": "BEAST-03!™ - Evidence-Driven Collaboration Intelligence",
+  "description": "Project-first collaboration intelligence platform matching project capability gaps with demonstrated technical evidence.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

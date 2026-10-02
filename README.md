@@ -6,8 +6,14 @@
 [![Express](https://img.shields.io/badge/Backend-Express-green.svg)](https://expressjs.com/)
 [![Gemini AI](https://img.shields.io/badge/AI-Google_Gemini-orange.svg)](https://ai.google.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8.x-purple.svg)](https://vitejs.dev/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-emerald.svg)](https://ais-pre-rvj4ujsemppo66y5nd2iss-863038884571.asia-southeast1.run.app)
 
 > **“Don’t match people by what they claim. Match project needs with evidence of what people can contribute.”**
+
+### 🌐 Live Application Links
+
+- **🚀 Live Production Demo**: [https://ais-pre-rvj4ujsemppo66y5nd2iss-863038884571.asia-southeast1.run.app](https://ais-pre-rvj4ujsemppo66y5nd2iss-863038884571.asia-southeast1.run.app)
+- **🛠️ Development Preview**: [https://ais-dev-rvj4ujsemppo66y5nd2iss-863038884571.asia-southeast1.run.app](https://ais-dev-rvj4ujsemppo66y5nd2iss-863038884571.asia-southeast1.run.app)
 
 ---
 
